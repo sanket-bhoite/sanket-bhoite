@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="600" src="https://github.com/sanket-bhoite/sanket-bhoite/blob/main/sanket-header.png">
+<img align="center" alt="coding" width="900" src="https://github.com/sanket-bhoite/sanket-bhoite/blob/main/sanket-header.png">
 <h1 align="center">Hi 👋, I'm Sanket Bhoite</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
