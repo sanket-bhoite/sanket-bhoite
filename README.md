@@ -6,17 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-bhoite" /> </p>
 
-- 🔭 I’m currently working on [IncrementJobs Project](http://interviewasservice.biztechpartner.com/)
+🚀 Welcome to my corner of the digital world! I'm a passionate Web Application Developer with a thirst for knowledge and a love for coding.
 
-- 📫 How to reach me **sanket.bhoite@mitaoe.ac.in**
+📧 Feel free to drop me an email at sanket.bhoite@mitaoe.ac.in. I'm always open to exciting new opportunities and collaborations!
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+🌱 Currently, I'm delving deep into the fascinating world of Data Structures and Algorithms to sharpen my problem-solving skills and enhance my coding prowess.
 
-- 👯 I’m looking to collaborate **in various internships**
+👥 I'm eager to collaborate and contribute to various organisations where I can apply my skills and learn from talented minds.
 
-- 👨‍💻 All of my projects are available at **https://github.com/sanket-bhoite/sanket-bhoite/projects?query=is%3Aopen**
+💼 I have valuable experience as a Web Application Developer in Klipart Kreations and BizTech Partner.
 
-- 📄 Know about my experiences **https://drive.google.com/drive/folders/1kyzbXtcMXcmRkQ5gXSeiluBYqfO4Njj4?usp=sharing**
+💻 If you're curious about my ongoing projects, you can explore them on my GitHub profile: https://github.com/sanket-bhoite/sanket-bhoite/projects?query=is%3Aopen. Feel free to check them out and provide your valuable feedback!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
