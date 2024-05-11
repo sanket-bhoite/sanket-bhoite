@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="900" src="https://github.com/sanket-bhoite/sanket-bhoite/blob/main/sanket-header.png">
-<h1 align="center">Hi 👋, I'm Sanket Bhoite</h1>
+<h1 align="center">Hi 👋, I'm Sanket Bhoite Working As Software Engineer Intern @Baker Hughes </h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
